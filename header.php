@@ -35,10 +35,7 @@ include 'admin/koneksi.php';
             font-family: sans-serif;
         }
 
-        ul {
-            float: bottom;
-            margin-top: 35px;
-        }
+
 
         ul li {
             display: inline-block;
