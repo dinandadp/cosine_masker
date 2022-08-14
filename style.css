@@ -64,27 +64,28 @@ ul li.active a {
     border: 1.5px solid #A83A44;
 }
 
-.navbar {
+.menu-navbar {
     max-width: 100px;
     margin: auto;
 }
 
-.navbar ul {
+.menu-navbar ul {
     position: absolute;
     top: 8%;
     left: 7.5%;
 }
 
-.header h2 {
+.menu-header h2 {
     font-family: Halimun;
     font-size: 30px;
     color: #A83A44;
     position: absolute;
     top: 0%;
     left: 17.5%;
+    margin-top:20px;
 }
 
-.contents {
+.header-contents {
     position: absolute;
     top: 19.6%;
     left: 0;
@@ -95,7 +96,7 @@ ul li.active a {
     color: #837A7D;
 }
 
-.contents h2 {
+.header-contents h2 {
     font-family: Halimun;
     font-size: 30px;
     color: #A83A44;
@@ -103,7 +104,7 @@ ul li.active a {
     top: 0%;
     left: 17.5%;
 }
-.contents p {
+.header-contents p {
     font-family: BrandonText-Light;
     font-size: 13px;
     font-weight: bold;
@@ -125,8 +126,8 @@ ul li.active a {
 }
 .isi-content {
     margin-top:30px;
-    padding:0px 30px;
     margin-bottom: 50px;
+    padding:0px 25px;
 }
 
 

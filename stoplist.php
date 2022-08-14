@@ -1,12 +1,12 @@
 <?php include 'header.php'; ?>
 
-<div class="contents">
+<div class="header-contents">
     <p>Data Stopword List</p>
 </div>
 
 
 <section class="content">
-    <div class="container isi-content">
+    <div class="isi-content">
         <div class="row">
             <div class="col-md-12">
                 <table id="mytable" class="table table-striped table-bordered" width="100%">

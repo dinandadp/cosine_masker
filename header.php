@@ -10,8 +10,8 @@ include 'admin/koneksi.php';
     <title>Rekomendasi Masker Wajah Tradisional Berdasarkan Penelitian Ilmiah Menggunakan Cosine Similarity dan TF-IDF</title>
     <link href="gambar/logo_.png" rel="shortcut icon">
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.css">
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css">
@@ -31,8 +31,8 @@ include 'admin/koneksi.php';
 </head>
 
 <body>
-    <div class="navbar">
-        <div class="header">
+    <div class="menu-navbar">
+        <div class="menu-header">
             <h2>Rekomendasi Masker Wajah Tradisional</h2>
         </div>
         <ul>
@@ -41,7 +41,7 @@ include 'admin/koneksi.php';
             <li><a href="#">KATA DASAR</a></li>
             <li><a href="#">FAQ</a></li>
             <li><a href="#">MASKER WAJAH TRADISIONAL</a></li>
-            <li><a href="#">PENCARIAN</a></li>
+            <li <?php if (strpos($_SERVER['REQUEST_URI'], "pencarian.php") !== false) { ?> class="active" <?php } ?>><a href="pencarian.php">PENCARIAN</a></li>
             <li><a href="admin/index.php">LOGIN</a></li>
         </ul>
     </div>
