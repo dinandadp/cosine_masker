@@ -34,7 +34,7 @@
 </head>
 
 <div class="contents">
-    <p>Data Stopword</p>
+    <p>Data Stopword List</p>
 </div>
 
 <section class="content">
