@@ -16,37 +16,37 @@
                                 <div class="row">
                                     <div class="col-lg-3">
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
-                                            <label class="form-check-label" for="exampleRadios1">
+                                            <input class="form-check-input" type="checkbox" name="berminyak" id="berminyak" value="berminyak">
+                                            <label class="form-check-label" for="berminyak">
                                                 Berminyak
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
-                                            <label class="form-check-label" for="exampleRadios1">
+                                            <input class="form-check-input" type="checkbox" name="pori_pori_besar" id="pori_pori_besar" value="pori-pori besar">
+                                            <label class="form-check-label" for="pori_pori_besar">
                                                 Pori-Pori Besar
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Berjerawat
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Berkomedo
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Breakout
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Kusam
                                             </label>
@@ -54,37 +54,37 @@
                                     </div>
                                     <div class="col-lg-3">
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Bernoda
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Kering
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Pori-Pori Kecil
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Bercak Kemerahan
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Keriput
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Kulit Mengelupas
                                             </label>
@@ -92,37 +92,37 @@
                                     </div>
                                     <div class="col-lg-3">
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Flex Hitam
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Gatal
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Kencang
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Kasar
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Sensasi Terbakar
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Iritasi
                                             </label>
@@ -130,31 +130,31 @@
                                     </div>
                                     <div class="col-lg-3">
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Mengkilap
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Tidak Kering
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Tidak Berminyak
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Tidak Kusam
                                             </label>
                                         </div>
                                         <div class="form-check pb-2">
-                                            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
+                                            <input class="form-check-input" type="checkbox" name="exampleRadios" id="exampleRadios1" value="option1">
                                             <label class="form-check-label" for="exampleRadios1">
                                                 Tidak Sensitif
                                             </label>
@@ -178,12 +178,12 @@
                 <div class="card">
                     <div class="card-body">
                         <h5 style="margin-bottom: 20px;">Data Masker</h5>
-                        <table id="tableHasil" class="table table-bordered" width="100%">
+                        <table id="tableHasil" class="table table-bordered" width="100%" style="font-size: 12px">
                             <thead>
-                                <th>No</th>
+                                <th width="5%">No</th>
                                 <th>Judul</th>
                                 <th>Penulis</th>
-                                <th>Action</th>
+                                <th width="10%">Action</th>
                             </thead>
                             <tbody>
 
