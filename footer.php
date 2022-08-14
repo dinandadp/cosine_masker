@@ -3,6 +3,11 @@
 
 <head>
     <style type="text/css">
+        @font-face {
+            font-family: 'BrandonText-Light';
+            src: url('font/BrandonText-Light.otf');
+        }
+
         .footer {
             position: fixed;
             left: 0;
