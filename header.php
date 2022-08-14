@@ -31,18 +31,17 @@ include 'admin/koneksi.php';
 </head>
 
 <body>
-    <div class="bg-black">
-        <div class="navbar">
-            <div class="header">
-                <h2>Rekomendasi Masker Wajah Tradisional</h2>
-            </div>
-            <ul>
-                <li <?php if (strpos($_SERVER['REQUEST_URI'], "index.php") !== false) { ?> class="active" <?php } ?>><a href="index.php">BERANDA</a></li>
-                <li <?php if (strpos($_SERVER['REQUEST_URI'], "stoplist.php") !== false) { ?> class="active" <?php } ?>><a href="stoplist.php">STOPWORD LIST</a></li>
-                <li><a href="#">KATA DASAR</a></li>
-                <li><a href="#">FAQ</a></li>
-                <li><a href="#">MASKER WAJAH TRADISIONAL</a></li>
-                <li><a href="#">PENCARIAN</a></li>
-                <li><a href="admin/index.php">LOGIN</a></li>
-            </ul>
+    <div class="navbar">
+        <div class="header">
+            <h2>Rekomendasi Masker Wajah Tradisional</h2>
         </div>
+        <ul>
+            <li <?php if (strpos($_SERVER['REQUEST_URI'], "index.php") !== false) { ?> class="active" <?php } ?>><a href="index.php">BERANDA</a></li>
+            <li <?php if (strpos($_SERVER['REQUEST_URI'], "stoplist.php") !== false) { ?> class="active" <?php } ?>><a href="stoplist.php">STOPWORD LIST</a></li>
+            <li><a href="#">KATA DASAR</a></li>
+            <li><a href="#">FAQ</a></li>
+            <li><a href="#">MASKER WAJAH TRADISIONAL</a></li>
+            <li><a href="#">PENCARIAN</a></li>
+            <li><a href="admin/index.php">LOGIN</a></li>
+        </ul>
+    </div>

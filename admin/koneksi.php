@@ -1,7 +1,7 @@
 <?php
 $server = 'localhost';
 $user = 'root';
-$password = '';
+$password = 'root';
 $database = 'cosine_masker';
 $konek = mysqli_connect($server, $user, $password, $database);
 if ($konek) {

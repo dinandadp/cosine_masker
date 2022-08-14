@@ -3,7 +3,6 @@
 <div class="contents">
     <p>Data Stopword List</p>
 </div>
-</div>
 
 
 <section class="content">
