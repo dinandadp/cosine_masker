@@ -38,7 +38,7 @@ include 'admin/koneksi.php';
         <ul>
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "index.php") !== false) { ?> class="active" <?php } ?>><a href="index.php">BERANDA</a></li>
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "stoplist.php") !== false) { ?> class="active" <?php } ?>><a href="stoplist.php">STOPWORD LIST</a></li>
-            <li><a href="#">KATA DASAR</a></li>
+            <li <?php if (strpos($_SERVER['REQUEST_URI'], "katadasar.php") !== false) { ?> class="active" <?php } ?>><a href="katadasar.php">KATA DASAR</a></li>
             <li><a href="#">FAQ</a></li>
             <li><a href="#">MASKER WAJAH TRADISIONAL</a></li>
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "pencarian.php") !== false) { ?> class="active" <?php } ?>><a href="pencarian.php">PENCARIAN</a></li>
