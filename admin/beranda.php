@@ -4,7 +4,6 @@ include 'header.php';
 
 <section class="content" style="background-color:#FFFFFF; color: #000000">
   <div class="row">
-
     <?php
     $data1 = mysqli_query($konek, "SELECT * FROM tbl_stoplist");
     $stoplist = mysqli_num_rows($data1);
