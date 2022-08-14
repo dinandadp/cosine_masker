@@ -70,7 +70,7 @@ ul li.active a {
 }
 
 .navbar ul {
-    position: fixed;
+    position: absolute;
     top: 8%;
     left: 7.5%;
 }
@@ -79,13 +79,13 @@ ul li.active a {
     font-family: Halimun;
     font-size: 30px;
     color: #A83A44;
-    position: fixed;
+    position: absolute;
     top: 0%;
     left: 17.5%;
 }
 
 .contents {
-    position: fixed;
+    position: absolute;
     top: 19.6%;
     left: 0;
     bottom: 0;
@@ -122,6 +122,11 @@ ul li.active a {
 
 .content {
     margin-top:150px;
+}
+.isi-content {
+    margin-top:30px;
+    padding:0px 30px;
+    margin-bottom: 50px;
 }
 
 

@@ -6,11 +6,10 @@
 
 
 <section class="content">
-    <div class="container">
+    <div class="container isi-content">
         <div class="row">
             <div class="col-md-12">
-                <h2 style="text-align: center;margin-bottom: 30px"></h2>
-                <table id="table_id" class="table table-striped table-bordered" cellspacing="0" width="100%">
+                <table id="mytable" class="table table-striped table-bordered" width="100%">
                     <thead>
                         <tr>
                             <th width="5%">NO</th>
