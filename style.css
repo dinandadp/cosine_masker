@@ -2,10 +2,12 @@
     font-family: Halimun;
     src: url('font/Halimun.ttf');
 }
+
 @font-face {
     font-family: 'BrandonText-Regular';
     src: url('font/BrandonText-Regular.otf');
 }
+
 @font-face {
     font-family: 'BrandonText-Light';
     src: url('font/BrandonText-Light.otf');
@@ -16,7 +18,8 @@
     padding: 0px;
     font-family: sans-serif;
 }
-body{
+
+body {
     height: auto;
 }
 
@@ -72,17 +75,18 @@ ul li.active a {
 .menu-navbar ul {
     position: absolute;
     top: 8%;
-    left: 7.5%;
+    left: 5%;
 }
 
 .menu-header h2 {
     font-family: Halimun;
     font-size: 30px;
+    font-weight: bold;
     color: #A83A44;
     position: absolute;
     top: 0%;
     left: 17.5%;
-    margin-top:20px;
+    margin-top: 20px;
 }
 
 .header-contents {
@@ -104,6 +108,7 @@ ul li.active a {
     top: 0%;
     left: 17.5%;
 }
+
 .header-contents p {
     font-family: BrandonText-Light;
     font-size: 13px;
@@ -122,12 +127,13 @@ ul li.active a {
 }
 
 .content {
-    margin-top:150px;
+    margin-top: 150px;
 }
+
 .isi-content {
-    margin-top:30px;
+    margin-top: 30px;
     margin-bottom: 50px;
-    padding:0px 25px;
+    padding: 0px 25px;
 }
 
 
