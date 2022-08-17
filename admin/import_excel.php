@@ -3,9 +3,9 @@
 
 <?php
 // menghubungkan dengan koneksi
-include 'koneksi.php';
+include 'admin/koneksi.php';
 // menghubungkan dengan library excel reader
-include "excel_reader2.php";
+include "admin/excel_reader2.php";
 ?>
 
 <?php
