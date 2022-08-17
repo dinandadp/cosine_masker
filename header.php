@@ -40,7 +40,7 @@ include 'admin/koneksi.php';
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "stoplist.php") !== false) { ?> class="active" <?php } ?>><a href="stoplist.php">STOPWORD LIST</a></li>
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "katadasar.php") !== false) { ?> class="active" <?php } ?>><a href="katadasar.php">KATA DASAR</a></li>
             <li><a href="#">FAQ</a></li>
-            <li><a href="#">MASKER WAJAH TRADISIONAL</a></li>
+            <li <?php if (strpos($_SERVER['REQUEST_URI'], "masker.php") !== false) { ?> class="active" <?php } ?>><a href="masker.php">MASKER WAJAH TRADISIONAL</a></li>
             <li <?php if (strpos($_SERVER['REQUEST_URI'], "pencarian.php") !== false) { ?> class="active" <?php } ?>><a href="pencarian.php">PENCARIAN</a></li>
             <li><a href="admin/index.php">LOGIN</a></li>
         </ul>
